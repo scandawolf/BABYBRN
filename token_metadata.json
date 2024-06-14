@@ -1,0 +1,19 @@
+{
+  "name": "Baby Byron",
+  "symbol": "BABYBRN",
+  "description": "Baby Byron is a malinois. He likes to play. Play with him.",
+  "image": "https://raw.githubusercontent.com/scandawolf/BABYBRN/main/logo.png",
+  "attributes": [],
+  "extensions": {
+    "twitter": "https://x.com/BABYBRNCoin",
+    "telegram": "https://t.me/BABYBRNCoin",
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/scandawolf/BABYBRN/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
